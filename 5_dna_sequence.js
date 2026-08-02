@@ -31,4 +31,8 @@ function findRepeatedDnaSequences(s) {
   return result;
 }
 
-assert.deepEqual(findRepeatedDnaSequences("ACGTACGTACGTACGT"), false);
+assert.deepEqual(findRepeatedDnaSequences("ACGTACGTACGTACGT"), ["ACGTACGTAC","CGTACGTACG","GTACGTACGT"]);
+assert.deepEqual(findRepeatedDnaSequences("ACGT"), []);
+assert.deepEqual(findRepeatedDnaSequences("AAAAAAAAAAAAAAAAAAA"), ["AAAAAAAAAA"]);
+assert.deepEqual(findRepeatedDnaSequences("ACGTACGTAC"), []);
+assert.deepEqual(findRepeatedDnaSequences("AAAAAAAAAAA"), ["AAAAAAAAAA"]);
