@@ -3,10 +3,15 @@
 Solutions to algorithm practice problems, grouped by pattern.
 
 <!-- TOC:START -->
+### Backtracking
+
+- [Word Search](solutions/11_word_search.js)
+
 ### Fast Slow Pointers
 
 - [Happy Number](solutions/3_happy_number.js)
 - [Linked List Cycle](solutions/4_linked_list_cycle.js)
+- [Middle Of Linked List](solutions/13_middle_of_linked_list.js)
 
 ### Linked List
 
@@ -27,4 +32,5 @@ Solutions to algorithm practice problems, grouped by pattern.
 
 - [Palindrome](solutions/1_palindrome.js)
 - [3sum](solutions/2_3sum.js)
+- [Remove Nth Node From The End Of List](solutions/12_remove_nth_node_from_the_end_of_list.js)
 <!-- TOC:END -->
