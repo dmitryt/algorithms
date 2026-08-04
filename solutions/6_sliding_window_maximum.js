@@ -12,7 +12,6 @@ function findMaxSlidingWindow(nums, w) {
 
   const result = [];
   let slidingWindow = [];
-
   for (let i = 0; i < nums.length; i++) {
     // remove items outside the sliding window
     if (slidingWindow.length > 0 && slidingWindow[0] === i - w) {
