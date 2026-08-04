@@ -3,7 +3,7 @@
 // Your task is to merge all the overlapping intervals and return an array of the resulting non-overlapping
 // intervals that cover all the intervals in the input.
 
-// # merge_intervals_pattern
+// #merge_intervals_pattern
 const assert = require('node:assert/strict');
 /**
  * 🟡 Main idea

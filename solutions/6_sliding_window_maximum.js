@@ -2,7 +2,7 @@
 
 // Your task is to find the maximum value within the current window at each step and return it.
 
-// # sliding_window_pattern
+// #sliding_window_pattern
 const assert = require('node:assert/strict');
 
 function findMaxSlidingWindow(nums, w) {

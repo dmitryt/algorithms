@@ -2,7 +2,7 @@
 
 // The result must not contain any duplicate triplets. The order of the output and the order of elements within each triplet does not matter.
 
-// #two_pointers pattern
+// #two_pointers_pattern
 const assert = require('node:assert/strict');
 
 function threeSum(nums) {

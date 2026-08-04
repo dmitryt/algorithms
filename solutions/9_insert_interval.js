@@ -2,7 +2,7 @@
 
 // Your task is to insert newInterval into the list of intervals such that the list remains sorted by starting times and still contains no overlapping intervals. If any intervals overlap after the insertion, merge them accordingly.
 
-// # merge_intervals_pattern
+// #merge_intervals_pattern
 const assert = require('node:assert/strict');
 /**
  * 🟡 Main idea

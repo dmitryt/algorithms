@@ -8,7 +8,7 @@
 //   - The number enters a cycle, which will depict that the given number n is not a happy number.
 //   Return TRUE if n is a happy number, and FALSE if not.
 
-// # fast_slow_pointers_pattern
+// #fast_slow_pointers_pattern
 const assert = require('node:assert/strict');
 
 function isHappyNumber(n) {

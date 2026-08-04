@@ -2,7 +2,7 @@
 
 // Given a string s representing a DNA sequence, find and return all 10-letter-long substrings that appear more than once within s. The result may be returned in any order.
 
-// # sliding_window_pattern
+// #sliding_window_pattern
 const assert = require('node:assert/strict');
 
 function findRepeatedDnaSequences(s) {

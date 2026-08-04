@@ -1,8 +1,8 @@
 // Given the head of a singly linked list, reverse the linked list and return its updated head.
 
-// # linked_list_pattern
+// #linked_list_pattern
 const assert = require('node:assert/strict');
-const { list2array, makeList } = require('./utils');
+const { list2array, makeList } = require('../utils');
 /**
  * 🟡 Main idea
  *    1. Iterate over the list

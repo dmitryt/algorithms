@@ -1,6 +1,6 @@
 // Given the head of a linked list, determine whether the list contains a cycle. A cycle exists if a node in the list can be revisited by continuously following the next pointers. Return TRUE if a cycle is present; otherwise, return FALSE.
 
-// # fast_slow_pointers_pattern
+// #fast_slow_pointers_pattern
 const assert = require('node:assert/strict');
 
 class ListNode {

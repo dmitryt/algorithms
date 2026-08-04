@@ -2,7 +2,7 @@
 
 // A phrase is considered a palindrome if it reads the same backward as forward after converting all uppercase letters to lowercase and removing any characters that are not letters or numbers. Only alphanumeric characters (letters and digits) are taken into account.
 
-// #two_pointers pattern
+// #two_pointers_pattern
 
 const assert = require('node:assert/strict');
 
